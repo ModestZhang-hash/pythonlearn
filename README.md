@@ -1,6 +1,6 @@
 # pythonlearn
 自学《Python基础教程》学习笔记
-主要是自己整个寒假在家里闲着没事自学《python基础教程》这本书的PDF版本
+主要是自己学习《python基础教程》这本书的PDF版本
 跟着书上的一步一步在解释器Pycharm上记下自己觉得重要的笔记
 ## learnPDF
 learnPDF主要讲述了Python的一些基础知识，当然，如果学过C，这部分其实并不是多难
